@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/23 23:04:11.000.987,=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/02 21:22:02.000.756,=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/02 21:25:33.000.120,F:\DESENVOLVIMENTO\Delphi\projeto imagem\Unt_Principal.dfm=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/02 21:25:33.000.120,F:\DESENVOLVIMENTO\Delphi\projeto imagem\Unt_Principal.pas=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/02 22:27:50.000.844,F:\DESENVOLVIMENTO\Delphi\projeto imagem\Tratando_imagens.dproj=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
